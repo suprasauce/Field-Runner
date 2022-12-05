@@ -37,9 +37,9 @@ path_where_env_is_stored\env\Scripts\activate
 ```
 
 3. Go to the project directory <br />
-To install all the dependencies, run
+To install pygame, run
 ```
-pip install -r requirements.txt
+pip install pygame
 ```
 
 4. Run the game.py file by typing the following command in CMD/ Powershell (make sure virtual env is activated) in the directory where you cloned the folder
